@@ -55,7 +55,7 @@ rustup update
 1. Clone this repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Spades-Ace/RawRustServer
    cd rust-raw-http-server
    ```
 
