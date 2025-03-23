@@ -1,0 +1,9 @@
+[package]
+name = "rust-raw-http-server"
+version = "0.1.0"
+edition = "2024"
+authors = ["ExAce"]
+description = "A raw HTTP server implemented from scratch in Rust"
+
+[dependencies]
+# No external dependencies - implementing HTTP from scratch!
