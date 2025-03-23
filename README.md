@@ -2,6 +2,8 @@
 
 A raw HTTP server implementation in Rust with no external dependencies. This project serves as a learning resource to understand how HTTP servers work from the ground up.
 
+![Ferris the Crab](https://rustacean.net/assets/cuddlyferris.svg)
+
 ## Project Overview
 
 This project implements a basic HTTP server from scratch that:
